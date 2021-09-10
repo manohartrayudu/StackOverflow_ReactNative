@@ -1,0 +1,8 @@
+### searc
+
+GET https://api.stackexchange.com/2.3/search?site=stackoverflow&order=desc&sort=activity&intitle=typeerror&filter=withbody&pagesize=10
+
+### answers for a question
+GET https://api.stackexchange.com/2.3/questions/69088698/answers?order=desc&sort=activity&site=stackoverflow&filter=withbody&pagesize=10
+###
+GET https://api.stackexchange.com/2.3/answers/69088858?site=stackoverflow
