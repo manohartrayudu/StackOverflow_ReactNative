@@ -11,5 +11,4 @@ The app is developed using Expo for android.
 
 ## Notes
 
-- [SO API Docs](https://api.stackexchange.com/docs)
-- 
+- [SO API Docs](https://api.stackexchange.com/docs) 
