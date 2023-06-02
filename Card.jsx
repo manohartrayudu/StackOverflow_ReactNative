@@ -27,7 +27,7 @@ export default function AppCard(props) {
      <Card.Title style={{color:"#3295a8"}} onPress={()=>props.getAnswers()}>{q_title}</Card.Title>
       <Text>Asked By: {q_display_name}</Text>
       <Text>Score: {q_score}</Text>
-      <Text>Total Answers: {q_answer_count}</Text>
+      <Text>Total Answer: {q_answer_count}</Text>
       
       {viewClickedQuestion && (
         <RenderHtml
