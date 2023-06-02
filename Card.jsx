@@ -6,7 +6,7 @@ import RenderHtml from 'react-native-render-html';
 
 const styles = StyleSheet.create({
     a: {
-      fontWeight: '300',
+      fontWeight: '350',
       color: '#FF3366', // make links coloured pink
     },
     
